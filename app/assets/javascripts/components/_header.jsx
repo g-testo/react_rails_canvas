@@ -1,8 +1,8 @@
-var NewItem= React.createClass({
+var Header = React.createClass({
     render() {
         return (
             <div>
-                <h1>new item</h1>
+                <h1>Hello, World!</h1>
             </div>
         )
     }
